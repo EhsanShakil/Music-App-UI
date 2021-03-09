@@ -11,3 +11,4 @@ export const background4 = require('../assets/Union5.png');
 export const notification = require('../assets/Notification.png');
 export const ellipse7 = require('../assets/Ellipse7.png');
 export const info = require('../assets/Group80.png');
+
